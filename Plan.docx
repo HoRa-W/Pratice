@@ -1,0 +1,8 @@
+﻿Đầu tiên xây dựng một cái máy tính ảo để có thể bật tắt và ngủ
+sau đó sẽ làm 1 cái trò chơi game và chơi được khi máy chạy ảo tức Term = 1;
+Để làm được game nên làm loại game đơn giản Tic tac toe 3x3
+
+Để dành cho ngày 28/8
+Sau khi xây dựng xong game hôm sau sẽ có nhiệm vụ là làm sao
++ Chơi được game khi máy tính đang mở
++ Không chơi được game khi máy tính đang tắt hay đang ngủ
